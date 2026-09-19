@@ -1,0 +1,6 @@
+{
+  "name": "Nivotv",
+  "description": "Next-generation IPTV streaming platform featuring high-performance proxy streaming, channel management, bKash payments, subscriber authentication, and real-time monitoring.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
